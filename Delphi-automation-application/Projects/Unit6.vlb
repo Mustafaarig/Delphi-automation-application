@@ -1,0 +1,10 @@
+﻿[SpeedButton1]
+Coordinates=10,10,84,33
+
+[SpeedButton2]
+Coordinates=116,10,84,33
+Visible=True
+
+[]
+Coordinates=113,62,82,33
+
